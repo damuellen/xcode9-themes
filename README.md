@@ -18,7 +18,7 @@ Some themes for Xcode 9+
 <img src="https://user-images.githubusercontent.com/11914364/26841060-aebb234c-4ae8-11e7-8fd5-60eb945c4623.png" width="90%"></img>
 ## Dracula
 <img src="https://user-images.githubusercontent.com/11914364/26841063-aedbba62-4ae8-11e7-9c26-4fd6569593af.png" width="90%"></img>
-## ElCacho
+## ElChacho
 <img src="https://user-images.githubusercontent.com/11914364/26841062-aeda3a0c-4ae8-11e7-826e-811724dd3377.png" width="90%"></img>
 ## Flatland
 <img src="https://user-images.githubusercontent.com/11914364/26841065-aedf42e0-4ae8-11e7-8681-9e4566035fe3.png" width="90%"></img>
